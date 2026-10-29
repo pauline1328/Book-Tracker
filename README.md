@@ -1,10 +1,9 @@
 # Book-Tracker
-#### Video Demo: (https://youtu.be/TE5JXNJaswE)
 #### **<ins>Description:**<ins>
 
 This project consists of 4 files:
-- project.py
-- test_project.py
+- book_tracker.py
+- test_book_tracker.py
 - requirements.txt
 - README.md
 
@@ -17,7 +16,7 @@ Each row in the file corresponds to a book and its specific information (title, 
 
 #### **<ins>Usage:<ins>**
 
-`python project.py`
+`python book_tracker.py`
 
 This program is an "Interactive console program" and functions through `input()`.
 
