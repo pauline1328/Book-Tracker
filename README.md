@@ -37,7 +37,7 @@ After starting the game, one is asked for a username. Under this name, all the b
 
 #### **<ins>Functioning:<ins>**
 
-In project.py there are 15 functions, including the `main()` function.
+In book_tracker.py there are 15 functions, including the `main()` function.
 
 The script starts off by importing different libraries, listed in the requirements.txt file.
 
